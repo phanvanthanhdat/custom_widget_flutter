@@ -5,7 +5,7 @@ class TextCustom extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    return Text("seto kaiba1");
+    return Text("seto kaiba4");
   }
 
 }
